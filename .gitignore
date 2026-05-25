@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Environment / Config
+application.properties
+.env
+
+# Uploaded images/files
+uploads/
